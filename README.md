@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Banner.png" height="160" width="100%">
+  <img src="Banner.png" height="160" width="70%">
 </p>
 
 # 🔗 Blockchain-Based KYC Model for Credit Allocation in Banking
